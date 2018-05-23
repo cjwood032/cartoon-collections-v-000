@@ -22,4 +22,5 @@ def find_the_cheese(snacks)
   else
     i+=1
   end
+  end
 end
